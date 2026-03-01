@@ -26,3 +26,4 @@ class Solution:
 solution = Solution()
 res = solution.spiralOrder([[3],[2]])
 print(res)
+
