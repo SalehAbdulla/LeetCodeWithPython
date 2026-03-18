@@ -18,6 +18,10 @@ def binary_search(arr: List[int], target: int) -> int:
         else:
             right = mid - 1
 
+
+    return -1
+
+
 res = binary_search(arr, 106)
 print(res)
 
